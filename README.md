@@ -2,7 +2,7 @@
 
 master branch ->
 
-plain javascript with webpack example. 
+plain javascript with webpack example.
 
 
 ```
@@ -41,4 +41,26 @@ yarn add -D webpack-dev-server
 
 ```
 yarn add -D html-webpack-plugin
+```
+
+-----------------
+
+day -2
+
+loaders
+
+- CSS loader
+```
+yarn add -D css-loader style-loader
+```
+
+introduce react
+
+```
+yarn add react react-dom
+```
+
+
+```
+yarn add -D babel-loader @babel/core @babel/preset-react
 ```
